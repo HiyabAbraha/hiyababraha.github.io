@@ -41,3 +41,5 @@ div:hover { background-color: rgb(255, 182, 122);}
       background-color: lightblue;
     }
   }
+  span {font-size: medium; font-family: Verdana, Geneva, Tahoma, sans-serif; 
+  }
